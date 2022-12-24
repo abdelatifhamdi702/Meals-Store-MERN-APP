@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "AbdelatifMongo",
+    "DB_PASSWORD": "26092000",
+    "DB_NAME": "mern",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
